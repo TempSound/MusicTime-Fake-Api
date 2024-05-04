@@ -22,7 +22,16 @@
       "manager": "Eddy Herrera",
       "description": "Eduardo José Herrera de los Ríos, más conocido como Eddy Herrera, es un cantante dominicano de merengue. Perteneció como uno de los grandes vocalistas del conjunto musical liderado por Wilfrido Vargas en la década de 1980. ",
       "available": false,
-      "imageUrl": "https://res.cloudinary.com/djia8bsvr/image/upload/v1714744341/eddy_herrera_h309en.jpg"
+      "imageUrl": "https://res.cloudinary.com/djia8bsvr/image/upload/v1714744341/eddy_herrera_h309en.jpg",
+      "events": [
+        {
+          "id": 3,
+          "name": "Concierto en Santo Domingo",
+          "date": "2024-07-10",
+          "location": "Estadio Olímpico Félix Sánchez",
+          "description": "Concierto en vivo en el Estadio Olímpico Félix Sánchez de Santo Domingo"
+        }
+      ]
     }
   ]
 }
